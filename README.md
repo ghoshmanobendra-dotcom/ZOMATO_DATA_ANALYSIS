@@ -101,6 +101,23 @@ This analysis provides actionable, data-driven strategies for restaurant owners 
 2.  **Target Growth Cities:** While Hyderabad is a high-performing market, it is also highly competitive. **Kochi** represents a significant, high-potential, unsaturated market for new restaurant entry.
 3.  **Optimize Service Model:** The choice of dine-in vs. delivery is not one-size-fits-all. The strategy must be **cuisine-dependent**. Use data to decide whether to invest in a cloud kitchen (for `Biryani`, `Sichuan`) or a premium dine-in experience (for `Mandi`, `Seafood`).
 
+
+
+
+# 📁 Repository Structure
+
+README.md (This file)
+
+Zomato Dataset.csv (The raw dataset used for the challenge)
+
+zomato_dataset_data_description.xlsx (The raw dataset used for the challenge)
+
+ZOMATO-DATA.ipynb (The main Jupyter Notebook with all my code and analysis)
+
+Exploring-the-Zomato-Restaurant-Dataset.pptx (A summary of my findings and recommendations)
+
+
+
 ## 🚀 How to Run this Project
 
 1.  Clone the repository:
